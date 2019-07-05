@@ -1,0 +1,42 @@
+[
+	{
+		"tingkat": "DIV/Sarjana",
+		"jum": "12765"
+	},
+	{
+		"tingkat": "Diploma I-IIIt",
+		"jum": "5224"
+	},
+	{
+		"tingkat": "SMK",
+		"jum": "1638"
+	},
+	{
+		"tingkat": "SMU",
+		"jum": "786"
+	},
+	{
+		"tingkat": "S2/S3t",
+		"jum": "549"
+	},
+	{
+		"tingkat": "SMP",
+		"jum": "435"
+	},
+	{
+		"tingkat": "Yang Setingkatt",
+		"jum": "154"
+	},
+	{
+		"tingkat": "Tamat SD",
+		"jum": "87"
+	},
+	{
+		"tingkat": "Yang Setingkat",
+		"jum": "8"
+	},
+	{
+		"tingkat": "Tidak Tamat SD",
+		"jum": "3"
+	}
+]
